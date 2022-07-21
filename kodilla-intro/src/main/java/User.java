@@ -1,6 +1,6 @@
 public class User {
     private String name;
-    int year;
+    private int year;
 
     public User(String name, int year){
         this.name = name;
